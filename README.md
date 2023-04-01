@@ -4,7 +4,7 @@
 📫 How to reach me: delfino.tamiris22@gmail.com     
 🌱 I'm currently learning:    
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>  
-<img src="https://imgbox.io/ib/tQejc9HVYU.png"/>
+<img src="https://imgbox.io/ib/tQejc9HVYU.png" width="80" height="80"/>
           
           
           
